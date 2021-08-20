@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![header](https://capsule-render.vercel.app/api?type=soft&color=#2be3b8&height=200&section=header&text=%20Ji-Eun%20Han%20render&fontSize=90)
+
 <!--
 **Daily-Jin/Daily-Jin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
